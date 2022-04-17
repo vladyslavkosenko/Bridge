@@ -6,7 +6,4 @@ public abstract class Program {
     }
 
     public abstract void developProgram ();
-
-    public void developerProgram() {
-    }
 }

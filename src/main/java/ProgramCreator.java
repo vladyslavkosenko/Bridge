@@ -6,7 +6,6 @@ public class ProgramCreator {
         };
         for (Program program : programs) {
             program.developProgram();
-            program.developerProgram();
 
         }
     }
